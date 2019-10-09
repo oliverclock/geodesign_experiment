@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "desc": "transport"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.15535259246826,
+            -33.899522434383165
+          ],
+          [
+            151.15736961364746,
+            -33.89360923259874
+          ],
+          [
+            151.1611032485962,
+            -33.887980623542504
+          ],
+          [
+            151.1676263809204,
+            -33.880712756164606
+          ]
+        ]
+      }
+    }
+  ]
+}
