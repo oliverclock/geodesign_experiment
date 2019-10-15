@@ -9,7 +9,7 @@
 ### ...
 
 ### Groups save files onto this GitHub using their group as prefix, i.e. A_1_Housing.geojson
-### Cloud script is run to combine all letters together, i.e. A_1_All.geojson will contain all projects for Group A
+## Cloud script can be run to combine all letters together, i.e. A_1_All.geojson will contain all projects for Group A
 
 ## Step 2 
 ### Group works are combined into singular files based on workshop
