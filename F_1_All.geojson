@@ -1,0 +1,548 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff8000",
+        "fill-opacity": 0.8,
+        "desc": "industrial - high"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.06838464736938,
+              -33.76758925423873
+            ],
+            [
+              151.06852412223816,
+              -33.76800844014503
+            ],
+            [
+              151.06914639472961,
+              -33.76784790110405
+            ],
+            [
+              151.06898546218872,
+              -33.767464389955364
+            ],
+            [
+              151.06838464736938,
+              -33.76758925423873
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff8040",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.06826663017273,
+              -33.767633848581546
+            ],
+            [
+              151.06805205345154,
+              -33.76773195605406
+            ],
+            [
+              151.06809496879578,
+              -33.768088709552735
+            ],
+            [
+              151.0684061050415,
+              -33.76804411544663
+            ],
+            [
+              151.06826663017273,
+              -33.767633848581546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff8000",
+        "fill-opacity": 0.2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.06793403625488,
+              -33.76777655032262
+            ],
+            [
+              151.0677194595337,
+              -33.767821144567975
+            ],
+            [
+              151.067773103714,
+              -33.76791925182606
+            ],
+            [
+              151.06792330741882,
+              -33.767910332989054
+            ],
+            [
+              151.06793403625488,
+              -33.76777655032262
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0080ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0080ff",
+        "fill-opacity": 0.8,
+        "desc": "commercial-high"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.06918931007385,
+              -33.76803519662263
+            ],
+            [
+              151.06864213943481,
+              -33.768142222449434
+            ],
+            [
+              151.06873869895935,
+              -33.76847221790728
+            ],
+            [
+              151.0692536830902,
+              -33.7683205985304
+            ],
+            [
+              151.06918931007385,
+              -33.76803519662263
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8080",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff8080",
+        "fill-opacity": 0.8,
+        "desc": "residential - high"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.06927514076233,
+              -33.76848113668581
+            ],
+            [
+              151.06881380081177,
+              -33.76862383701588
+            ],
+            [
+              151.06892108917233,
+              -33.76893599315943
+            ],
+            [
+              151.0693395137787,
+              -33.768784374603165
+            ],
+            [
+              151.06927514076233,
+              -33.76848113668581
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008040",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#008040",
+        "fill-opacity": 0.8,
+        "desc": "green space"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.06936097145078,
+              -33.768998424251684
+            ],
+            [
+              151.06904983520508,
+              -33.7690697740157
+            ],
+            [
+              151.0691249370575,
+              -33.76931057903064
+            ],
+            [
+              151.06942534446716,
+              -33.7692124733655
+            ],
+            [
+              151.06936097145078,
+              -33.768998424251684
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#000000",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "desc": "railway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.06950044631958,
+            -33.76733952549007
+          ],
+          [
+            151.07019782066345,
+            -33.769444359302085
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#808080",
+        "stroke-width": 8,
+        "stroke-opacity": 1,
+        "desc": "highway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.06989741325378,
+            -33.76720574193249
+          ],
+          [
+            151.0706377029419,
+            -33.76931057903064
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#8000ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#8000ff",
+        "fill-opacity": 0.8,
+        "desc": "mixed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              151.06911420822144,
+              -33.76944881864087
+            ],
+            [
+              151.069216132164,
+              -33.76971637854321
+            ],
+            [
+              151.06965601444244,
+              -33.76964056998904
+            ],
+            [
+              151.0695594549179,
+              -33.76938192853473
+            ],
+            [
+              151.06911420822144,
+              -33.76944881864087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#008000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "cycling"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.06865286827087,
+            -33.769818942950934
+          ],
+          [
+            151.06879234313965,
+            -33.77049675681964
+          ],
+          [
+            151.06990814208984,
+            -33.77031838526878
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#c0c0c0",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "desc": "pedestrian only"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.07003688812256,
+            -33.76990812929263
+          ],
+          [
+            151.07080936431885,
+            -33.76973867516403
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail",
+        "desc": "rail station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06738686561582,
+          -33.7687576183595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "desc": "bus stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06775164604184,
+          -33.76882004958172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "harbor",
+        "desc": "harbor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06748342514038,
+          -33.7690697740157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "desc": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06798231601715,
+          -33.76901626169826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "desc": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06795012950897,
+          -33.76882450895299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "desc": "tertiary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0679179430008,
+          -33.76856586503545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "desc": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06753706932068,
+          -33.76838303007102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.067236661911,
+          -33.7683205985304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06704354286194,
+          -33.76839194885882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06709718704224,
+          -33.76870410584712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06712937355042,
+          -33.76898950552701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.06776237487793,
+          -33.7692035546631
+        ]
+      }
+    }
+  ]
+}
