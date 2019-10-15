@@ -1,3 +1,1 @@
-# geodesign_experiment
-
-test content
+# UNSW Geodesign Workshop Projects
